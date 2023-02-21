@@ -22,5 +22,4 @@ For this homework assignment you will be re-creating the home page from the Trav
 
 ## Homework 4 URL
 
-Insert the link here
-https://github.com/n215-eplagge/travel-fly.git
+https://in-info-web4.informatics.iupui.edu/~eplagge/homework-four/
