@@ -1,0 +1,50 @@
+@font-face {
+  font-family: Nova;
+  src: url(../css/fonts/fonts/ProximaNovaScOsfExtraCondensed.ttf);
+}
+
+@font-face {
+  font-family: RegularSans;
+  src: url(../css/fonts/fonts/Gill\ Sans.otf);
+}
+
+@font-face {
+  font-family: LightSans;
+  src: url(../css/fonts/fonts/Gill\ Sans\ Light.otf);
+}
+
+@font-face {
+  font-family: ItalicSans;
+  src: url(../css/fonts/fonts/Gill\ Sans\ Italic.otf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-bottom: 16px;
+}
+
+.site-wrapper {
+  width: $site-width;
+  min-height: 1792px;
+  margin: 0 auto;
+}
+
+@media (max-width: 860px) {
+  .site-wrapper {
+    width: 100%;
+  }
+}

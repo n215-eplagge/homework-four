@@ -1,6 +1,6 @@
 # Travel Fly
 
-This is a test to make sure that everything is aligned with the repo.
+This is a repo containing Assignment homework four.
 
 ## Purpose
 
